@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1723816767~exp=1723820367~hmac=0ca70c3eff7422406282145e413d061be5b226da6a52e8d7f6c7e4439ded9471&w=996"
+    },
+    {
+        "id": 2,
+        "name": "Music Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 30,
+        "category": "Songs",
+        "image": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1723816767~exp=1723820367~hmac=0ca70c3eff7422406282145e413d061be5b226da6a52e8d7f6c7e4439ded9471&w=996"
+    },
+    {
+        "id": 3,
+        "name": "Cricket Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 50,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1723816767~exp=1723820367~hmac=0ca70c3eff7422406282145e413d061be5b226da6a52e8d7f6c7e4439ded9471&w=996"
+    },
+    {
+        "id": 4,
+        "name": "Comic Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 100,
+        "category": "Comedy",
+        "image": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1723816767~exp=1723820367~hmac=0ca70c3eff7422406282145e413d061be5b226da6a52e8d7f6c7e4439ded9471&w=996"
+    },
+    {
+        "id": 5,
+        "name": "Cooking Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 200,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1723816767~exp=1723820367~hmac=0ca70c3eff7422406282145e413d061be5b226da6a52e8d7f6c7e4439ded9471&w=996"
+    },
+    {
+        "id": 6,
+        "name": "Panchtantra Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1723816767~exp=1723820367~hmac=0ca70c3eff7422406282145e413d061be5b226da6a52e8d7f6c7e4439ded9471&w=996"
+    },
+    {
+        "id": 7,
+        "name": "Science Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1723816767~exp=1723820367~hmac=0ca70c3eff7422406282145e413d061be5b226da6a52e8d7f6c7e4439ded9471&w=996"
+    },
+    {
+        "id": 8,
+        "name": "Hindi Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1723816767~exp=1723820367~hmac=0ca70c3eff7422406282145e413d061be5b226da6a52e8d7f6c7e4439ded9471&w=996"
+    },
+    {
+        "id": 9,
+        "name": "Top 10 places Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1723816767~exp=1723820367~hmac=0ca70c3eff7422406282145e413d061be5b226da6a52e8d7f6c7e4439ded9471&w=996"
+    },
+    {
+        "id": 10,
+        "name": "Outfits Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?t=st=1723816767~exp=1723820367~hmac=0ca70c3eff7422406282145e413d061be5b226da6a52e8d7f6c7e4439ded9471&w=996"
+    }
+]
